@@ -2,7 +2,7 @@
 
 The goal of this project is to predict whether credit card users will pay on time next month.
 
-Description of the dataset
+The columns in the dataset:
 1. ID
 2. AGE: age(year)
 3. SEX: gender
